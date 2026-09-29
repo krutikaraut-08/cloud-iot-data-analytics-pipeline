@@ -1,0 +1,7 @@
+pandas
+numpy
+pyodbc
+azure-storage-blob
+azure-identity
+azure-identity-broker
+pywin32
